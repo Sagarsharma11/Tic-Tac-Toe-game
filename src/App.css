@@ -1,0 +1,42 @@
+.a1,.a2,.a3, .b1 , .b2 , .b3 , .c1 , .c2 , .c3{
+
+  height: 100px;
+  background-color: rgb(197, 235, 248);
+  border: 1px solid rgb(236, 250, 245);
+}
+
+.a1:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.a2:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.a3:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.b1:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.b2:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.b3:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.c1:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.c2:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.c3:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.val{
+  font-size: 40px;
+  font-weight: bolder;
+  color: white;
+  margin-top: 20px;
+}
